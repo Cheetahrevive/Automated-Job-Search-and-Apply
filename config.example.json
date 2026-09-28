@@ -1,0 +1,44 @@
+{
+  "adzuna": {
+    "app_id": "",
+    "app_key": "",
+    "country": "us"
+  },
+  "db_path": "~/.jobsearch/jobs.db",
+  "email": "",
+  "exclude_keywords": [
+    "senior director",
+    " vp ",
+    "principal architect",
+    "manual only"
+  ],
+  "include_keywords": [
+    "qa",
+    "quality assurance",
+    "sdet",
+    "test automation",
+    "automation engineer",
+    "playwright",
+    "selenium",
+    "api testing",
+    "python",
+    "pytest",
+    "ci/cd",
+    "agentic ai",
+    "llm"
+  ],
+  "limit_per_source": 50,
+  "min_score": 50,
+  "name": "",
+  "prefer_sponsorship_mentions": true,
+  "query": "QA automation engineer",
+  "remote_only": false,
+  "resume_path": "",
+  "salary_max": null,
+  "salary_min": 100000,
+  "sources": [
+    "remotive",
+    "arbeitnow"
+  ],
+  "weights": {}
+}
